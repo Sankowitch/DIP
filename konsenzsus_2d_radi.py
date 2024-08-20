@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-#stari kod
+#stari kod koji ne radi simulaciju sa sphero_stageom
 
 def calculate_distances(r):
     n = len(r)
