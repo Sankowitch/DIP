@@ -1,2 +1,2 @@
 # DIP
-kodovi i slicno za diplomski
+kodovi i slicno za diplomski - nonofficial
