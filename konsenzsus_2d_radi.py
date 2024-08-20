@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-
+#stari kod
 
 def calculate_distances(r):
     n = len(r)
